@@ -9,6 +9,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import javax.validation.constraints.Email;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
@@ -21,19 +22,19 @@ public class Usuario {
 		
 	@Id	
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	public long id;
+	private long id;
 	
 	@NotNull
-	public String nome;
+	private String nome;
+	
+	@Email(message = "O e-mail deve ser um e-mail válido!")
+	@NotNull
+	private String usuario;
+	
+	private String foto;
+	
 	
 	@NotNull
-	public String email;
-	
-	public String foto;
-	
-	
-	@NotNull
-	@Size(min = 5, max = 100, message = "O campo deve ter no mínimo 5 caracteres e no máximo 100 caracteres")
 	private String senha;
 	
 	@OneToMany(mappedBy = "usuario", cascade = CascadeType.ALL)
@@ -56,12 +57,12 @@ public class Usuario {
 		this.nome = nome;
 	}
 
-	public String getEmail() {
-		return email;
+	public String getUsuario() {
+		return usuario;
 	}
 
-	public void setEmail(String email) {
-		this.email = email;
+	public void setUsuario(String usuario) {
+		this.usuario = usuario;
 	}
 
 	public String getFoto() {
@@ -87,6 +88,7 @@ public class Usuario {
 	public void setPostagem(List<Postagem> postagem) {
 		this.postagem = postagem;
 	}
-	
+
+		
 	
 }
