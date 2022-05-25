@@ -14,6 +14,19 @@ O projeto tem como finalidade criar uma rede social focada em educação de qual
 
 ##
 
+
+### 🌎 ODS 1 - Erradiação da pobreza
+
+<div align="center">
+  <img src="https://www.tce.sp.gov.br/sites/default/files/portal/ods1.png">
+</div>
+<br/>
+Como a ênfase na cooperação internacional não se aplica à adequação das metas para o Brasil, o grupo optou por dar destaque à garantia de recursos para os programas e políticas que têm como objetivo o combate à pobreza.
+Centralizamos na educação de qualidade para todos, permitindo a facilidade de acesso em redes sociais proporcionando o compartilhamento de conteúdos de ensino de qualidade
+
+🚩 Saiba mais sobre a [ODS](https://www.ipea.gov.br/ods/ods1.html)
+
+##
 ### 💻 TECNOLOGIAS
 
 - [ ] Frontend: [Angular](https://angular.io/) + [TypeScript](https://www.typescriptlang.org/) + [Bootstrap](https://getbootstrap.com/) 
@@ -72,4 +85,6 @@ Conhecemos o Spring Boot, um framework incrivel que nos ajudou a construir back-
 
 
   ![WhatsApp Image 2022-05-25 at 11 38 57](https://user-images.githubusercontent.com/86428389/170373706-8f40f30c-f8b3-4220-940c-e55741f11b2e.jpeg)
+ 
+
 
