@@ -15,7 +15,7 @@ O projeto tem como finalidade criar uma rede social focada em educação de qual
 ##
 
 
-### 🌎 ODS 1 - Erradiação da pobreza
+### 🌎 ODS 1 - Erradicação da pobreza
 
 <div align="center">
   <img src="https://www.tce.sp.gov.br/sites/default/files/portal/ods1.png">
