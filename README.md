@@ -1,9 +1,9 @@
 <div align="center"> 
 
-  <h2> Projeto Integrador - Backend 6Educa </h2>
+  <h1> Projeto Integrador - Backend 6Educa </h1>
   
- <h1> 👩‍💻 6Educa é um projeto desenvolvido durante o curso da <a href="https://brazil.generation.org/">Generation Brasil</a> utilizando as tecnologias <i>Java, Spring Boot, REST API, MySQL, Angular e TypeScript.</i>
- </h1>
+ <h2> 👩‍💻 6Educa é um projeto desenvolvido durante o curso da <a href="https://brazil.generation.org/">Generation Brasil</a> utilizando as tecnologias <i>Java, Spring Boot, REST API, MySQL, Angular e TypeScript.</i>
+ </h2>
 
 
 </div>
