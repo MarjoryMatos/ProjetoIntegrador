@@ -84,7 +84,23 @@ Conhecemos o Spring Boot, um framework incrivel que nos ajudou a construir back-
 ### 🗺️ Diagrama
 
 
-  ![WhatsApp Image 2022-05-25 at 11 38 57](https://user-images.githubusercontent.com/86428389/170373706-8f40f30c-f8b3-4220-940c-e55741f11b2e.jpeg)
+  <div align="center"> 
+ <img src="https://i.imgur.com/3Q2Uj9b.jpg">
+</div> 
+
  
+
+##
+
+### 📍 Roadmap
+
+<div align="center"> 
+  <br/>
+ <img src="https://i.imgur.com/1r5QwyC.jpg">
+</div> 
+
+  
+
+
 
 
